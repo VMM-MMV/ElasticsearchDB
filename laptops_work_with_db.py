@@ -109,6 +109,34 @@ query = {
     ]
 }
 
+# Define the search query with function score and filter for store_name "Best Buy"
+# query = {
+#     "query": {
+#         "function_score": {
+#             "query": {
+#                 "bool": {
+#                     "must": [
+#                         {"match_all": {}}
+#                     ],
+#                     "filter": [
+#                         {"term": {"store_name": "Best Buy"}}
+#                     ]
+#                 }
+#             },
+#             "functions": [
+#                 {"field_value_factor": {"field": "casual", "factor": 1, "modifier": "none"}},
+#                 {"field_value_factor": {"field": "school", "factor": 1, "modifier": "none"}}
+#             ],
+#             "score_mode": "sum",  # Optional: Adjust scoring mode as needed
+#             "boost_mode": "replace"  # Optional: Adjust boost mode as needed
+#         }
+#     },
+#     "sort": [
+#         {"_score": {"order": "desc"}},  # Sort by score descending
+#         {"price": {"order": "asc"}}     # Then by price ascending
+#     ]
+# }
+
 # Search the index
 response = es.search(index='computers', body=query)
 
