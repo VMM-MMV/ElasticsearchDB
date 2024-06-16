@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
-
+import user as user
 # Connect to Elasticsearch
-es = Elasticsearch(['https://0a32-81-180-73-68.ngrok-free.app/'])
+es = Elasticsearch(['https://bf5e-81-180-73-68.ngrok-free.app'])
 # docs = [
 #     {
 #         "name": "IdeaPad 1i",
@@ -83,32 +83,8 @@ es = Elasticsearch(['https://0a32-81-180-73-68.ngrok-free.app/'])
 #         print(f"Failed to index document {doc['name']}: {e}")
 
 # Query for the best match for multiple criteria and sort by price
-query = {
-    "query": {
-        "function_score": {
-            "query": {"match_all": {}},
-            "functions": [
-                # {"field_value_factor": {"field": "gaming", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "work", "factor": 1, "modifier": "none"}},
-                {"field_value_factor": {"field": "casual", "factor": 1, "modifier": "none"}},
-                {"field_value_factor": {"field": "school", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "storage_size", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "battery_life", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "ethernet_port", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "hdmi_port", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "screen_resolution", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "keyboard_backlight", "factor": 1, "modifier": "none"}},
-                # {"field_value_factor": {"field": "weight", "factor": 1, "modifier": "none"}}
-            ],
-            "score_mode": "avg",
-            "boost_mode": "replace"
-        }
-    },
-    "sort": [
-        {"price": {"order": "asc", "unmapped_type": "integer"}}  # Sort by price in ascending order
-    ]
-}
-
+query = user.ask_prompt("give me a laptop that is good for school and has good battery")
+print(query)
 # Define the search query with function score and filter for store_name "Best Buy"
 # query = {
 #     "query": {

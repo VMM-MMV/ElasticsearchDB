@@ -2,7 +2,7 @@ import json
 from elasticsearch import Elasticsearch
 
 es = Elasticsearch(['http://localhost:9200'])
-with open('files/categorized_topic.json', 'r', encoding='utf-8') as file:
+with open('laptop/files/categorized_topic.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 for doc in data:
