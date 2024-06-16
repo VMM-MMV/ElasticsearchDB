@@ -14,5 +14,5 @@ for item in data:
         print(result)
         result_all.append(result)
 
-# with open(f'files/categorized_topic.json', 'w', encoding='utf-8') as f:
-#     json.dump(result_all, f, ensure_ascii=False, indent=4)
+with open(f'files/categorized_topic.json', 'w', encoding='utf-8') as f:
+    json.dump(result_all, f, ensure_ascii=False, indent=4)
