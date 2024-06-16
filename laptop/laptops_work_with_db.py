@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 
 # Connect to Elasticsearch
-es = Elasticsearch(['http://localhost:9200'])
+es = Elasticsearch(['https://0a32-81-180-73-68.ngrok-free.app/'])
 # docs = [
 #     {
 #         "name": "IdeaPad 1i",
@@ -115,7 +115,7 @@ query = {
 #         "function_score": {
 #             "query": {
 #                 "bool": {
-#                     "must": [
+#                       "must": [
 #                         {"match_all": {}}
 #                     ],
 #                     "filter": [

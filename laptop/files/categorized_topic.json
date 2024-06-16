@@ -1,0 +1,1665 @@
+[
+    {
+        "name": "apple macbook air 11 mc969lla",
+        "price": "26999",
+        "gaming": 0.4,
+        "work": 0.7,
+        "casual": 0.8,
+        "school": 0.9,
+        "storage_size": 0.3,
+        "battery_life": 0.6,
+        "ethernet_port": 0,
+        "hdmi_port": 1,
+        "screen_resolution": 0.5,
+        "keyboard_backlight": 1,
+        "weight": 0.7,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Apple",
+                "Dimensiune ecran": "11.6\"",
+                "Procesor": "Intel Core i5",
+                "Frecvență procesor": "1600 MHz",
+                "Capacitate memorie": "4096 MB",
+                "Capacitate SSD": "128 GB",
+                "Culoare": "Argintiu"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i5",
+                "Model procesor": "2467M",
+                "Frecvență procesor": "1600 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "11.6\"",
+                "Rezoluție ecran": "1366x768",
+                "Tip ecran": "Lucios",
+                "LED-backlight": "",
+                "Format ecran": "16:9",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "4096 MB",
+                "Memorie maximă": "4096 MB",
+                "Tip memorie": "DDR3",
+                "Frecvență memorie": "1333 MHz"
+            },
+            "Video": {
+                "Chipset video": "Intel HD Graphics 3000",
+                "Capacitate memorie video": "256 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Interfeţe": {
+                "Porturi USB 2.0": "2",
+                "HDMI": "",
+                "VGA": "",
+                "Intrare Audio": "",
+                "Intrare pentru microfon": ""
+            },
+            "Diverse": {
+                "Chipset": "Intel HM65",
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Tip acumulator": "Li-Pol"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "17 mm",
+                "Lăţime": "300 mm",
+                "Lungime furtunului": "192 mm"
+            }
+        }
+    },
+    {
+        "name": "dell inspiron 5520 0813",
+        "price": "24899",
+        "gaming": 0.4,
+        "work": 0.7,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.6,
+        "battery_life": 0.5,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.4,
+        "keyboard_backlight": 0,
+        "weight": 0.6,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Dell",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i3",
+                "Frecvență procesor": "2400 MHz",
+                "Capacitate memorie": "4096 MB",
+                "Capacitate HDD": "500 GB",
+                "Culoare": "Argintiu, Gri-închis"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i3",
+                "Model procesor": "2370M",
+                "Frecvență procesor": "2400 MHz"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1366x768"
+            },
+            "Memorie": {
+                "Capacitate memorie": "4096 MB",
+                "Memorie maximă": "8192 MB",
+                "Tip memorie": "DDR3"
+            },
+            "HDD": {
+                "Capacitate HDD": "500 GB",
+                "Viteza de rotație HDD": "5400 RPM"
+            },
+            "Video": {
+                "Chipset video": "AMD Radeon HD7670M / Intel HD Graphics 3000",
+                "Capacitate memorie video": "1024 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Diverse": {
+                "Chipset": "Intel HM77",
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "34 mm",
+                "Lăţime": "378 mm",
+                "Lungime furtunului": "252 mm"
+            }
+        }
+    },
+    {
+        "name": "acer aspire a315 23 charcoal black nxhvteu01j",
+        "price": "11999",
+        "gaming": 0.4,
+        "work": 0.7,
+        "casual": 0.8,
+        "school": 0.9,
+        "storage_size": 0.6,
+        "battery_life": 0.5,
+        "ethernet_port": 0.5,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0,
+        "weight": 0.7,
+        "store_name": "HI-TECH",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Acer",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "AMD Ryzen 3",
+                "Capacitate memorie": "4096 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "AMD Ryzen 3",
+                "Model procesor": "Ryzen 3 3250U",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "4096 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "AMD Radeon Graphics"
+            },
+            "Comunicaţii": {
+                "WiFi": ""
+            },
+            "Interfeţe": {
+                "HDMI": "",
+                "Intrare Audio": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 2 Cell"
+            }
+        }
+    },
+    {
+        "name": "dell vostro 3500 196",
+        "price": "14199",
+        "gaming": 0.4,
+        "work": 0.7,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.4,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.5,
+        "keyboard_backlight": 0,
+        "weight": 0.7,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Dell",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i5",
+                "Frecvență procesor": "2400 MHz",
+                "Capacitate memorie": "3072 MB",
+                "Capacitate HDD": "320 GB"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i5",
+                "Model procesor": "450M",
+                "Frecvență procesor": "2400 MHz"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1366x768"
+            },
+            "Memorie": {
+                "Capacitate memorie": "3072 MB",
+                "Tip memorie": "DDR3"
+            },
+            "HDD": {
+                "Capacitate HDD": "320 GB",
+                "Viteza de rotație HDD": "7200 RPM"
+            },
+            "Video": {
+                "Chipset video": "NVIDIA GeForce 310M",
+                "Capacitate memorie video": "512 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11n"
+            },
+            "Diverse": {
+                "Chipset": "Intel HM57",
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "32 mm",
+                "Lăţime": "375 mm",
+                "Lungime furtunului": "250 mm"
+            }
+        }
+    },
+    {
+        "name": "acer aspire a315 23 charcoal black nxhvteu005",
+        "price": "15699",
+        "gaming": 0.4,
+        "work": 0.6,
+        "casual": 0.7,
+        "school": 0.8,
+        "storage_size": 0.6,
+        "battery_life": 0.5,
+        "ethernet_port": 0.5,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0,
+        "weight": 0.5,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Acer",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "AMD Athlon",
+                "Capacitate memorie": "4096 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "AMD Athlon",
+                "Model procesor": "AMD Athlon 3020e"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "4096 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "AMD Radeon Graphic"
+            },
+            "Comunicaţii": {
+                "WiFi": ""
+            },
+            "Interfeţe": {
+                "HDMI": "",
+                "Intrare Audio": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 2 Cell"
+            }
+        }
+    },
+    {
+        "name": "asus zenbook ux303ln r4338d",
+        "price": "19299",
+        "gaming": 0.7,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.6,
+        "battery_life": 0.5,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 1,
+        "weight": 0.7,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "13.3\"",
+                "Procesor": "Intel Core i7",
+                "Frecvență procesor": "2400 MHz",
+                "Capacitate memorie": "4096 MB",
+                "Capacitate HDD": "750 GB",
+                "Culoare": "Negru, Cafeniu, Auriu"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i7",
+                "Model procesor": "5500U",
+                "Frecvență procesor": "2400 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "13.3\"",
+                "Rezoluție ecran": "1920x1080",
+                "Tip ecran": "Mat",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "4096 MB",
+                "Memorie maximă": "8 MB",
+                "Tip memorie": "DDR3L"
+            },
+            "HDD": {
+                "Capacitate HDD": "750 GB",
+                "Viteza de rotație HDD": "5400 RPM"
+            },
+            "Video": {
+                "Chipset video": "NVIDIA GeForce 840M / Intel HD Graphics 5500",
+                "Capacitate memorie video": "2048 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": ""
+            },
+            "Interfeţe": {
+                "Porturi USB 3.0": "3",
+                "HDMI": "",
+                "VGA": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Iluminare taste": "",
+                "Tip acumulator": "Li-Pol"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "20 mm",
+                "Lăţime": "323 mm",
+                "Lungime furtunului": "223 mm"
+            }
+        }
+    },
+    {
+        "name": "asus vivobook f200m",
+        "price": "15999",
+        "gaming": 0.2,
+        "work": 0.4,
+        "casual": 0.6,
+        "school": 0.5,
+        "storage_size": 0.7,
+        "battery_life": 0.5,
+        "ethernet_port": 0.5,
+        "hdmi_port": 1,
+        "screen_resolution": 0.4,
+        "keyboard_backlight": 0,
+        "weight": 0.6,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "11.6\"",
+                "Procesor": "Intel Celeron",
+                "Frecvență procesor": "2160 MHz",
+                "Capacitate memorie": "2048 MB",
+                "Capacitate HDD": "500 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "Intel Celeron",
+                "Model procesor": "N2830",
+                "Frecvență procesor": "2160 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "11.6\"",
+                "Rezoluție ecran": "1366x768",
+                "Tip ecran": "Lucios",
+                "Tehnologie ecran": "TN+Film",
+                "LED-backlight": "",
+                "Format ecran": "16:9",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "2048 MB"
+            },
+            "HDD": {
+                "Capacitate HDD": "500 GB",
+                "Viteza de rotație HDD": "5400 RPM"
+            },
+            "Video": {
+                "Chipset video": "Intel HD Graphics"
+            },
+            "Comunicaţii": {
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Interfeţe": {
+                "Porturi USB 2.0": "2",
+                "Porturi USB 3.0": "1",
+                "HDMI": "",
+                "VGA": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Iluminare taste": "",
+                "Tip acumulator": "Li-Ion"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "25.6 mm",
+                "Lăţime": "302 mm",
+                "Lungime furtunului": "200 mm"
+            }
+        }
+    },
+    {
+        "name": "dell inspiron gaming 17 g3 black 3779 273254241",
+        "price": "23999",
+        "gaming": 0.8,
+        "work": 0.7,
+        "casual": 0.9,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 1,
+        "weight": 0.4,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Dell"
+            }
+        }
+    },
+    {
+        "name": "dell inspiron n5030 840",
+        "price": "9490",
+        "gaming": 0.2,
+        "work": 0.5,
+        "casual": 0.6,
+        "school": 0.7,
+        "storage_size": 0.4,
+        "battery_life": 0.5,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.3,
+        "keyboard_backlight": 0,
+        "weight": 0.6,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Dell",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Pentium",
+                "Frecvență procesor": "2400 MHz",
+                "Capacitate memorie": "2048 MB",
+                "Capacitate HDD": "320 GB"
+            },
+            "Procesor": {
+                "Procesor": "Intel Pentium",
+                "Model procesor": "T4500",
+                "Frecvență procesor": "2400 MHz"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1366x768"
+            },
+            "Memorie": {
+                "Capacitate memorie": "2048 MB",
+                "Tip memorie": "DDR3"
+            },
+            "HDD": {
+                "Capacitate HDD": "320 GB",
+                "Viteza de rotație HDD": "5400 RPM"
+            },
+            "Video": {
+                "Chipset video": "Intel GMA 4500MHD",
+                "Capacitate memorie video": "256 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11g"
+            },
+            "Diverse": {
+                "Chipset": "Intel GM45",
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "40 mm",
+                "Lăţime": "378 mm",
+                "Lungime furtunului": "245 mm"
+            }
+        }
+    },
+    {
+        "name": "lenovo thinkpad x1 carbon 3 20bs006rrt",
+        "price": "16490",
+        "gaming": 0.4,
+        "work": 0.8,
+        "casual": 0.7,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 0,
+        "hdmi_port": 1,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 1,
+        "weight": 0.4,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Lenovo",
+                "Dimensiune ecran": "14\"",
+                "Procesor": "Intel Core i7",
+                "Frecvență procesor": "2400 MHz",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i7",
+                "Model procesor": "5500U",
+                "Frecvență procesor": "2400 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "14\"",
+                "Rezoluție ecran": "2560x1440",
+                "Tip ecran": "Mat",
+                "Tehnologie ecran": "IPS",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Memorie maximă": "8 MB",
+                "Tip memorie": "DDR3L"
+            },
+            "Video": {
+                "Chipset video": "Intel HD Graphics 5500"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11a/b/g/n/ac"
+            },
+            "Interfeţe": {
+                "Porturi USB 3.0": "2",
+                "HDMI": "",
+                "VGA": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Iluminare taste": "",
+                "Tip acumulator": "Li-Ion"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "19.2 mm",
+                "Lăţime": "331 mm",
+                "Lungime furtunului": "226.5 mm"
+            }
+        }
+    },
+    {
+        "name": "acer swift 3 berry red nxacseu005",
+        "price": "24990",
+        "gaming": 0.6,
+        "work": 0.8,
+        "casual": 0.9,
+        "school": 0.8,
+        "storage_size": 0.7,
+        "battery_life": 0.8,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 0,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Acer",
+                "Dimensiune ecran": "14\"",
+                "Procesor": "Intel Core i3",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "256 GB"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i3",
+                "Model procesor": "Intel Core i3-1115G4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "14\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "LPDDR4"
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 3 cell"
+            }
+        }
+    },
+    {
+        "name": "asus fx516pm az140 tuf dash f15",
+        "price": "20990",
+        "gaming": 0.8,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0.7,
+        "weight": 0.5,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i5",
+                "Capacitate memorie": "16384 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i5",
+                "Model procesor": "Intel Core i5-11300H",
+                "Număr de nuclee": "4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "16384 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "GeForce RTX 3060"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion"
+            }
+        }
+    },
+    {
+        "name": "apple macbook pro 13 retina md213rsa",
+        "price": "30990",
+        "gaming": 0.4,
+        "work": 0.8,
+        "casual": 0.9,
+        "school": 0.8,
+        "storage_size": 0.6,
+        "battery_life": 0.7,
+        "ethernet_port": 0.0,
+        "hdmi_port": 1.0,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 1.0,
+        "weight": 0.5,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Apple",
+                "Dimensiune ecran": "13.3\"",
+                "Procesor": "Intel Core i5",
+                "Frecvență procesor": "2500 MHz",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Argintiu"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i5",
+                "Model procesor": "3210M",
+                "Frecvență procesor": "2500 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "13.3\"",
+                "Rezoluție ecran": "2560x1600",
+                "Tip ecran": "Lucios",
+                "Tehnologie ecran": "IPS",
+                "LED-backlight": "",
+                "Format ecran": "16:10",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Memorie maximă": "8192 MB",
+                "Tip memorie": "DDR3",
+                "Frecvență memorie": "1600 MHz"
+            },
+            "Video": {
+                "Chipset video": "Intel HD Graphics 4000"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Interfeţe": {
+                "Porturi USB 3.0": "2",
+                "HDMI": "",
+                "VGA": "",
+                "Intrare Audio": "",
+                "Intrare pentru microfon": ""
+            },
+            "Diverse": {
+                "Chipset": "Intel HM77",
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Iluminare taste": "",
+                "Tip acumulator": "Li-Pol"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "19 mm",
+                "Lăţime": "314 mm",
+                "Lungime furtunului": "219 mm"
+            }
+        }
+    },
+    {
+        "name": "asus k513ea l12974 vivobook",
+        "price": "19490",
+        "gaming": 0.4,
+        "work": 0.7,
+        "casual": 0.8,
+        "school": 0.9,
+        "storage_size": 0.6,
+        "battery_life": 0.5,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i3",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Argintiu"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i3",
+                "Model procesor": "Core i3-1125G4",
+                "Număr de nuclee": "4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "Intel UHD Graphics"
+            },
+            "Diverse": {
+                "Tip acumulator": "Li-Ion"
+            }
+        }
+    },
+    {
+        "name": "asus k513ea l11950 vivobook",
+        "price": "11390",
+        "gaming": 0.6,
+        "work": 0.8,
+        "casual": 0.9,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.7,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0.5,
+        "weight": 0.6,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i5",
+                "Capacitate memorie": "16384 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i5",
+                "Model procesor": "Core i5-1135G7",
+                "Număr de nuclee": "4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "16384 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "Iris Xe Graphics"
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 3 cell"
+            }
+        }
+    },
+    {
+        "name": "dell vostro 14 5000 titan gray 5415 273749152",
+        "price": "12990",
+        "gaming": 0.6,
+        "work": 0.8,
+        "casual": 0.9,
+        "school": 0.8,
+        "storage_size": 0.7,
+        "battery_life": 0.5,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0,
+        "weight": 0.4,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Dell",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "AMD Ryzen 5",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Gri"
+            },
+            "Procesor": {
+                "Procesor": "AMD Ryzen 5",
+                "Model procesor": "AMD Ryzen 5 5500U",
+                "Număr de nuclee": "6"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "AMD Radeon Graphics"
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 3 cell"
+            }
+        }
+    },
+    {
+        "name": "asus x507ub grey 24961",
+        "price": "15290",
+        "gaming": 0.4,
+        "work": 0.6,
+        "casual": 0.7,
+        "school": 0.8,
+        "storage_size": 0.5,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.7,
+        "keyboard_backlight": 0,
+        "weight": 0.5,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": ""
+            },
+            "Interfeţe": {
+                "HDMI": "",
+                "VGA": "",
+                "Intrare Audio": ""
+            },
+            "Diverse": {
+                "Cameră WEB": ""
+            }
+        }
+    },
+    {
+        "name": "dell inspiron n5030 l124504",
+        "price": "1",
+        "gaming": 0.2,
+        "work": 0.4,
+        "casual": 0.6,
+        "school": 0.5,
+        "storage_size": 0.3,
+        "battery_life": 0.5,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.4,
+        "keyboard_backlight": 0,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Dell",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Pentium",
+                "Frecvență procesor": "2300 MHz",
+                "Capacitate memorie": "2048 MB",
+                "Capacitate HDD": "250 GB"
+            },
+            "Procesor": {
+                "Procesor": "Intel Pentium",
+                "Model procesor": "T4500",
+                "Frecvență procesor": "2300 MHz"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1366x768"
+            },
+            "Memorie": {
+                "Capacitate memorie": "2048 MB",
+                "Tip memorie": "DDR3"
+            },
+            "HDD": {
+                "Capacitate HDD": "250 GB",
+                "Viteza de rotație HDD": "5400 RPM"
+            },
+            "Video": {
+                "Chipset video": "Intel GMA 4500MHD",
+                "Capacitate memorie video": "256 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11n"
+            },
+            "Diverse": {
+                "Chipset": "Intel GM45",
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "40 mm",
+                "Lăţime": "378 mm",
+                "Lungime furtunului": "245 mm"
+            }
+        }
+    },
+    {
+        "name": "acer swift 3 pure silver nxab1eu007",
+        "price": "19990",
+        "gaming": 0.7,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0.5,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Acer",
+                "Dimensiune ecran": "14\"",
+                "Procesor": "AMD Ryzen 7",
+                "Capacitate memorie": "16384 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Argintiu"
+            },
+            "Procesor": {
+                "Procesor": "AMD Ryzen 7",
+                "Model procesor": "AMD Ryzen 7 5700U",
+                "Număr de nuclee": "8"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "14\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "16384 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "AMD Radeon Graphics"
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 3 cell"
+            }
+        }
+    },
+    {
+        "name": "asus zenbook ux303ln r4354h",
+        "price": "12990",
+        "gaming": 0.7,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.6,
+        "battery_life": 0.5,
+        "ethernet_port": 0,
+        "hdmi_port": 1,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 1,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "13.3\"",
+                "Procesor": "Intel Core i7",
+                "Frecvență procesor": "2400 MHz",
+                "Capacitate memorie": "4096 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Negru, Cafeniu, Auriu"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i7",
+                "Model procesor": "5500U",
+                "Frecvență procesor": "2400 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "13.3\"",
+                "Rezoluție ecran": "1920x1080",
+                "Tip ecran": "Mat",
+                "Tehnologie ecran": "IPS",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "4096 MB",
+                "Memorie maximă": "8 MB",
+                "Tip memorie": "DDR3L"
+            },
+            "Video": {
+                "Chipset video": "NVIDIA GeForce 840M / Intel HD Graphics 5500",
+                "Capacitate memorie video": "2048 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11a/b/g/n/ac"
+            },
+            "Interfeţe": {
+                "Porturi USB 3.0": "3",
+                "HDMI": "",
+                "VGA": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Iluminare taste": "",
+                "Tip acumulator": "Li-Pol"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "20 mm",
+                "Lăţime": "323 mm",
+                "Lungime furtunului": "223 mm"
+            }
+        }
+    },
+    {
+        "name": "apple macbook pro 15 retina me665lla",
+        "price": "29990",
+        "gaming": 0.7,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 0,
+        "hdmi_port": 1,
+        "screen_resolution": 1,
+        "keyboard_backlight": 1,
+        "weight": 0.4,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Apple",
+                "Dimensiune ecran": "15.4\"",
+                "Procesor": "Intel Core i7",
+                "Frecvență procesor": "2700 MHz",
+                "Capacitate memorie": "16384 MB",
+                "Capacitate HDD": "512 GB",
+                "Culoare": "Argintiu"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i7",
+                "Model procesor": "3740QM",
+                "Frecvență procesor": "2700 MHz",
+                "Număr de nuclee": "4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.4\"",
+                "Rezoluție ecran": "2880x1800",
+                "Tip ecran": "Lucios",
+                "Tehnologie ecran": "IPS",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "16384 MB",
+                "Tip memorie": "DDR3"
+            },
+            "HDD": {
+                "Capacitate HDD": "512 GB"
+            },
+            "Video": {
+                "Chipset video": "NVIDIA GeForce GT650M / Intel HD Graphics 4000",
+                "Capacitate memorie video": "1024 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Interfeţe": {
+                "Porturi USB 3.0": "2",
+                "HDMI": "",
+                "VGA": "",
+                "Intrare Audio": "",
+                "Intrare pentru microfon": ""
+            },
+            "Diverse": {
+                "Chipset": "Intel HM77",
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Iluminare taste": "",
+                "Tip acumulator": "Li-Pol"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "18 mm",
+                "Lăţime": "359 mm",
+                "Lungime furtunului": "247 mm"
+            }
+        }
+    },
+    {
+        "name": "apple macbook air m1 8512gb silver mgna3",
+        "price": "40990",
+        "gaming": 0.6,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.9,
+        "ethernet_port": 0.0,
+        "hdmi_port": 0.5,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 0.8,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Apple",
+                "Dimensiune ecran": "13.3\"",
+                "Procesor": "Apple M1",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Argintiu"
+            },
+            "Procesor": {
+                "Procesor": "Apple M1",
+                "Model procesor": "Apple M1",
+                "Număr de nuclee": "8"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "13.3\"",
+                "Rezoluție ecran": "2560x1600"
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "Apple M1 Graphics"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Pol"
+            }
+        }
+    },
+    {
+        "name": "asus zenbook u500vz cn050p",
+        "price": "31690",
+        "gaming": 0.8,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 1,
+        "weight": 0.4,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "15\"",
+                "Procesor": "Intel Core i7",
+                "Frecvență procesor": "2100 MHz",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Argintiu, Cafeniu-închis"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i7",
+                "Model procesor": "3612QM",
+                "Frecvență procesor": "2100 MHz",
+                "Număr de nuclee": "4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15\"",
+                "Rezoluție ecran": "1920x1080",
+                "Tip ecran": "Mat",
+                "Tehnologie ecran": "IPS",
+                "LED-backlight": "",
+                "Format ecran": "16:9",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "DDR3",
+                "Frecvență memorie": "1600 MHz"
+            },
+            "Video": {
+                "Chipset video": "NVIDIA GeForce GT650M / Intel HD Graphics 4000",
+                "Capacitate memorie video": "2048 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Interfeţe": {
+                "Porturi USB 3.0": "3",
+                "HDMI": "",
+                "VGA": "",
+                "Intrare Audio": "",
+                "Intrare pentru microfon": ""
+            },
+            "Diverse": {
+                "Chipset": "Intel HM77",
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Iluminare taste": "",
+                "Tip acumulator": "Li-Pol"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "20 mm",
+                "Lăţime": "380 mm",
+                "Lungime furtunului": "254.5 mm"
+            }
+        }
+    },
+    {
+        "name": "asus x512ja bq036 vivobook",
+        "price": "15490",
+        "gaming": 0.4,
+        "work": 0.7,
+        "casual": 0.8,
+        "school": 0.9,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 0.5,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0.5,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i3",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Gri"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i3",
+                "Model procesor": "Intel Core i3 1005G1"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "Intel UHD Graphics"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": ""
+            },
+            "Interfeţe": {
+                "HDMI": "",
+                "Intrare Audio": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 2 Cell"
+            }
+        }
+    },
+    {
+        "name": "asus fa706ic hx006 tuf gaming",
+        "price": "25490",
+        "gaming": 0.8,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.7,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.8,
+        "keyboard_backlight": 0.7,
+        "weight": 0.5,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "17.3\"",
+                "Procesor": "AMD Ryzen 7",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "AMD Ryzen 7",
+                "Model procesor": "AMD Ryzen 7 4800H",
+                "Număr de nuclee": "8"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "17.3\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "NVIDIA GeForce RTX 3050"
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion"
+            }
+        }
+    },
+    {
+        "name": "asus fx506li hn012 tuf gaming",
+        "price": "4490",
+        "gaming": 0.7,
+        "work": 0.8,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.9,
+        "battery_life": 0.6,
+        "ethernet_port": 0.8,
+        "hdmi_port": 0.9,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 0.8,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Asus",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i5",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i5",
+                "Model procesor": "Core i5-10300H",
+                "Număr de nuclee": "4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "GeForce GTX 1650 Ti"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": ""
+            },
+            "Interfeţe": {
+                "HDMI": "",
+                "Intrare Audio": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion"
+            }
+        }
+    },
+    {
+        "name": "lenovo ideapad u300s 59318379",
+        "price": "8990",
+        "gaming": 0.4,
+        "work": 0.7,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.6,
+        "battery_life": 0.5,
+        "ethernet_port": 0,
+        "hdmi_port": 1,
+        "screen_resolution": 0.4,
+        "keyboard_backlight": 0,
+        "weight": 0.7,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Lenovo",
+                "Dimensiune ecran": "13.3\"",
+                "Procesor": "Intel Core i7",
+                "Frecvență procesor": "1800 MHz",
+                "Capacitate memorie": "4096 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Negru, Portocaliu"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i7",
+                "Model procesor": "2677M",
+                "Frecvență procesor": "1800 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "13.3\"",
+                "Rezoluție ecran": "1366x768",
+                "Tip ecran": "Lucios",
+                "Tehnologie ecran": "TN+Film",
+                "LED-backlight": "",
+                "Format ecran": "16:9",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "4096 MB",
+                "Memorie maximă": "8192 MB",
+                "Tip memorie": "DDR3"
+            },
+            "Video": {
+                "Chipset video": "Intel HD Graphics 3000"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Interfeţe": {
+                "Porturi USB 2.0": "1",
+                "Porturi USB 3.0": "1",
+                "HDMI": "",
+                "Intrare Audio": ""
+            },
+            "Diverse": {
+                "Chipset": "Intel QS67",
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Tip acumulator": "Li-Pol"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "15 mm",
+                "Lăţime": "324 mm",
+                "Lungime furtunului": "217 mm"
+            }
+        }
+    },
+    {
+        "name": "lenovo thinkpad yoga 14 20dm003mrt",
+        "price": "7690",
+        "gaming": 0.6,
+        "work": 0.8,
+        "casual": 0.9,
+        "school": 0.8,
+        "storage_size": 0.7,
+        "battery_life": 0.8,
+        "ethernet_port": 0.5,
+        "hdmi_port": 1,
+        "screen_resolution": 0.9,
+        "keyboard_backlight": 0.8,
+        "weight": 0.6,
+        "store_name": "Enter",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Lenovo",
+                "Dimensiune ecran": "14\"",
+                "Procesor": "Intel Core i5",
+                "Frecvență procesor": "2200 MHz",
+                "Capacitate memorie": "8192 MB",
+                "Capacitate SSD": "256 GB",
+                "Culoare": "Negru"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i5",
+                "Model procesor": "5200U",
+                "Frecvență procesor": "2200 MHz",
+                "Număr de nuclee": "2"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "14\"",
+                "Rezoluție ecran": "1920x1080",
+                "Tip ecran": "Lucios",
+                "Ecran tactil": ""
+            },
+            "Memorie": {
+                "Capacitate memorie": "8192 MB",
+                "Memorie maximă": "8 MB",
+                "Tip memorie": "DDR3L"
+            },
+            "Video": {
+                "Chipset video": "NVIDIA GeForce 840M / Intel HD Graphics 5500",
+                "Capacitate memorie video": "2048 MB"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": "",
+                "Standard Wi-Fi": "802.11b/g/n"
+            },
+            "Interfeţe": {
+                "Porturi USB 2.0": "1",
+                "Porturi USB 3.0": "2",
+                "HDMI": "",
+                "VGA": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Microfon": "",
+                "Tip acumulator": "Li-Ion"
+            },
+            "Dimensiuni și greutate": {
+                "Înălţime": "21 mm",
+                "Lăţime": "338 mm",
+                "Lungime furtunului": "238 mm"
+            }
+        }
+    },
+    {
+        "name": "dell latitude 5520 273656043",
+        "price": "31899",
+        "gaming": 0.7,
+        "work": 0.9,
+        "casual": 0.8,
+        "school": 0.8,
+        "storage_size": 0.8,
+        "battery_life": 0.6,
+        "ethernet_port": 1,
+        "hdmi_port": 1,
+        "screen_resolution": 0.7,
+        "keyboard_backlight": 0.5,
+        "weight": 0.4,
+        "store_name": "Maximum",
+        "additional_specs": {
+            "Caracteristici de bază": {
+                "Producător": "Dell",
+                "Dimensiune ecran": "15.6\"",
+                "Procesor": "Intel Core i7",
+                "Capacitate memorie": "16384 MB",
+                "Capacitate SSD": "512 GB",
+                "Culoare": "Gri"
+            },
+            "Procesor": {
+                "Procesor": "Intel Core i7",
+                "Model procesor": "Core i7-1165G7",
+                "Număr de nuclee": "4"
+            },
+            "Ecran": {
+                "Dimensiune ecran": "15.6\"",
+                "Rezoluție ecran": "1920x1080"
+            },
+            "Memorie": {
+                "Capacitate memorie": "16384 MB",
+                "Tip memorie": "DDR4"
+            },
+            "Video": {
+                "Chipset video": "Intel Iris Xe Graphics"
+            },
+            "Comunicaţii": {
+                "Bluetooth": "",
+                "WiFi": ""
+            },
+            "Interfeţe": {
+                "HDMI": "",
+                "Intrare Audio": ""
+            },
+            "Diverse": {
+                "Cameră WEB": "",
+                "Tip acumulator": "Li-Ion 4 cell"
+            }
+        }
+    }
+]
