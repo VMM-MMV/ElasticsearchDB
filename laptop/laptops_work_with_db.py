@@ -118,7 +118,7 @@ response = es.search(index='computers-999', body=query)
 
 # Print search results
 print("Search Results:")
-for hit in response['hits']['hits']:
+for hit in response['hits']['hits'][:5]:
     print(f"Name: {hit['_source']['name']}, Price: {hit['_source']['price']}")
     # Access additional specifications if needed
     additional_specs = hit['_source'].get('additional_specs', {})
