@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 import user as user
 # Connect to Elasticsearch
-es = Elasticsearch(['https://bf5e-81-180-73-68.ngrok-free.app'])
+es = Elasticsearch(['http://localhost:9200'])
 # docs = [
 #     {
 #         "name": "IdeaPad 1i",
@@ -83,7 +83,7 @@ es = Elasticsearch(['https://bf5e-81-180-73-68.ngrok-free.app'])
 #         print(f"Failed to index document {doc['name']}: {e}")
 
 # Query for the best match for multiple criteria and sort by price
-query = user.ask_prompt("give me a laptop that is good for school and has good battery")
+query = user.ask_prompt("give me good gaming laptop with nice battery power")
 print(query)
 # Define the search query with function score and filter for store_name "Best Buy"
 # query = {
@@ -114,7 +114,7 @@ print(query)
 # }
 
 # Search the index
-response = es.search(index='computers', body=query)
+response = es.search(index='computers-999', body=query)
 
 # Print search results
 print("Search Results:")

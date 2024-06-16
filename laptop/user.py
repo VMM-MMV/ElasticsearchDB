@@ -5,7 +5,7 @@ from webscout import BLACKBOXAI
 user_prompt="""
 {
   "task": "Evaluate and rate various aspects of a product based on user preferences",
-  "context": "The task involves analyzing a set of product features and assigning ratings based on predefined criteria. The features include gaming, work, casual, school, storage_size, battery_life, ethernet_port, HDM_port, screen_resolution, keyboard_backlight, weight, and price. Each feature has a rating value ranging from 0 to 1, where 0 indicates poor quality or absence and 1 indicates excellent quality or presence. The response MUST be provided via json entitled \"ratings\" inside a code snippet", YOU MUST FOLLOW THE OUTPUT REQUIREMENTS
+  "context": "The task involves analyzing a set of product features and assigning ratings based on predefined criteria. The features include gaming, work, casual, school, storage_size, battery_life, ethernet_port, HDMi_port, screen_resolution, keyboard_backlight, weight, and price. Each feature has a rating value ranging from 0 to 1, where 0 indicates poor quality or absence and 1 indicates excellent quality or presence. The response MUST be provided via json entitled \"ratings\" inside a code snippet", YOU MUST FOLLOW THE OUTPUT REQUIREMENTS
   "guidelines": {
     "expert_focus": "Act as an expert in evaluating product features and providing accurate ratings based on the given criteria.",
     "context_awareness": "Leverage the context of the task to understand the importance of each feature and how it contributes to the overall product evaluation.",
@@ -67,7 +67,10 @@ def ask_prompt(item):
             }
         }
         for item in json_data:
-            main_query["query"]["function_score"]["functions"].append({"field_value_factor": {"field": item, "factor": json_data[item], "modifier": "none"}},)
+            if json_data[item]>0.7:
+                if item == "gaming":
+                    continue
+                main_query["query"]["function_score"]["functions"].append({"field_value_factor": {"field": item, "factor": 1, "modifier": "none"}},)
         
 
         

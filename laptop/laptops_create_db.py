@@ -14,7 +14,7 @@ index_mapping = {
             "storage_size": {"type": "float"},
             "battery_life": {"type": "float"},
             "ethernet_port": {"type": "float"},
-            "hdmi_port": {"type": "float"},
+            "hdm_port": {"type": "float"},
             "screen_resolution": {"type": "float"},
             "keyboard_backlight": {"type": "float"},
             "weight": {"type": "float"},
@@ -26,5 +26,5 @@ index_mapping = {
 }
  
 # Create the index (if it doesn't exist)
-if not es.indices.exists(index='computers'):
-    es.indices.create(index='computers', body=index_mapping)
+if not es.indices.exists(index='computers-999'):
+    es.indices.create(index='computers-999', body=index_mapping)
